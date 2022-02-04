@@ -23292,7 +23292,7 @@ msgstr "Запомнить меня"
 
 #: entrée standard:88
 msgid "Sign in"
-msgstr "Зарегистрироваться"
+msgstr "Войти"
 
 #: entrée standard:39
 msgid "Notifications configuration"
