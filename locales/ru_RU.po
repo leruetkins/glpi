@@ -13299,7 +13299,7 @@ msgstr "Настройки уведомлений и оповещений по e
 
 #: src/NotificationMailingSetting.php:47
 msgid "Enable followups via email"
-msgstr "Включить комментарии через Email"
+msgstr "Включить отслежевание через Email"
 
 #: src/NotificationMailingSetting.php:70
 msgid "Email notification"
